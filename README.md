@@ -12,4 +12,4 @@
 #### Hierarchical Algorithm
 
 * Hierarchical algorithm allows for different kinds of distance measuring methods
-* is a simple implementation of hierachical clustering algorithm which support self-defined distance measuring methods
+* [hierarchical_cluster.py](https://github.com/AiDatawxy/ClusterAlgorithm/blob/master/hierarchical_cluster.py) is a simple implementation of hierachical clustering algorithm which support self-defined distance measuring methods
